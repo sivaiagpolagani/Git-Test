@@ -1,2 +1,2 @@
 this is sample1 txt file
-changes file  (first)
+changes file  (one)
